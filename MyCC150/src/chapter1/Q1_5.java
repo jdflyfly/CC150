@@ -3,6 +3,8 @@ package chapter1;
 public class Q1_5 {
 
     private static int countNewLen(String str) {
+    
+    
         return 0;
     }
 
